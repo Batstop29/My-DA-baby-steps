@@ -1,4 +1,4 @@
-![COVID-19  dashsboard jpeg](https://user-images.githubusercontent.com/107194160/177447608-084a1abf-440c-4f79-82ef-fb0413dd48c4.jpg)
+
 # project name: Omowaye Precious data analysis baby steps through #30daysoflearning
 
 ...
